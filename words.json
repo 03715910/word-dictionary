@@ -1,42 +1,242 @@
 [
     {
-        "word": "かいしょう",
-        "meaning": "解消"
+        "word": "あい",
+        "meaning": "愛"
     },
     {
-        "word": "かんしょうかい",
-        "meaning": "感傷会"
+        "word": "あお",
+        "meaning": "青"
     },
     {
-        "word": "しんがた",
-        "meaning": "新型"
+        "word": "あさ",
+        "meaning": "朝"
     },
     {
-        "word": "あたらしい",
-        "meaning": "新しい"
+        "word": "いし",
+        "meaning": "石"
     },
     {
-        "word": "たい",
-        "meaning": ""
+        "word": "うた",
+        "meaning": "歌"
+    },
+    {
+        "word": "えだ",
+        "meaning": "枝"
+    },
+    {
+        "word": "おに",
+        "meaning": "鬼"
+    },
+    {
+        "word": "かき",
+        "meaning": "柿"
+    },
+    {
+        "word": "きん",
+        "meaning": "金"
+    },
+    {
+        "word": "くも",
+        "meaning": "雲"
+    },
+    {
+        "word": "けい",
+        "meaning": "警"
+    },
+    {
+        "word": "こえ",
+        "meaning": "声"
+    },
+    {
+        "word": "さけ",
+        "meaning": "酒"
+    },
+    {
+        "word": "しお",
+        "meaning": "塩"
+    },
+    {
+        "word": "すし",
+        "meaning": "寿司"
     },
     {
         "word": "せい",
         "meaning": ""
     },
     {
+        "word": "せき",
+        "meaning": "石"
+    },
+    {
         "word": "せん",
         "meaning": ""
+    },
+    {
+        "word": "そら",
+        "meaning": "空"
+    },
+    {
+        "word": "たい",
+        "meaning": ""
+    },
+    {
+        "word": "たに",
+        "meaning": "谷"
+    },
+    {
+        "word": "ちち",
+        "meaning": "父"
+    },
+    {
+        "word": "つき",
+        "meaning": "月"
+    },
+    {
+        "word": "てら",
+        "meaning": "寺"
+    },
+    {
+        "word": "とり",
+        "meaning": "鳥"
+    },
+    {
+        "word": "なみ",
+        "meaning": "波"
+    },
+    {
+        "word": "にく",
+        "meaning": "肉"
+    },
+    {
+        "word": "ぬま",
+        "meaning": "沼"
+    },
+    {
+        "word": "ねこ",
+        "meaning": "猫"
+    },
+    {
+        "word": "のり",
+        "meaning": "糊"
+    },
+    {
+        "word": "はな",
+        "meaning": "花"
+    },
+    {
+        "word": "ひと",
+        "meaning": "人"
+    },
+    {
+        "word": "ふね",
+        "meaning": "船"
+    },
+    {
+        "word": "へや",
+        "meaning": "部屋"
+    },
+    {
+        "word": "ほし",
+        "meaning": "星"
+    },
+    {
+        "word": "まち",
+        "meaning": "町"
+    },
+    {
+        "word": "みず",
+        "meaning": "水"
+    },
+    {
+        "word": "むし",
+        "meaning": "虫"
+    },
+    {
+        "word": "もり",
+        "meaning": "森"
+    },
+    {
+        "word": "やま",
+        "meaning": "山"
+    },
+    {
+        "word": "ゆき",
+        "meaning": "雪"
+    },
+    {
+        "word": "よる",
+        "meaning": "夜"
+    },
+    {
+        "word": "らい",
+        "meaning": "雷"
+    },
+    {
+        "word": "るり",
+        "meaning": "瑠璃"
+    },
+    {
+        "word": "れい",
+        "meaning": "礼"
+    },
+    {
+        "word": "ろう",
+        "meaning": "老"
+    },
+    {
+        "word": "わた",
+        "meaning": "綿"
+    },
+    {
+        "word": "ちきん",
+        "meaning": ""
+    },
+    {
+        "word": "めがね",
+        "meaning": "眼鏡"
+    },
+    {
+        "word": "りんご",
+        "meaning": "林檎"
+    },
+    {
+        "word": "けいかい",
+        "meaning": ""
+    },
+    {
+        "word": "こうせい",
+        "meaning": ""
+    },
+    {
+        "word": "しんがた",
+        "meaning": "新型"
     },
     {
         "word": "たいよう",
         "meaning": ""
     },
     {
+        "word": "あたらしい",
+        "meaning": "新しい"
+    },
+    {
+        "word": "かいしょう",
+        "meaning": "解消"
+    },
+    {
         "word": "しょうかい",
         "meaning": ""
     },
     {
-        "word": "ちきん",
+        "word": "せいたいし",
+        "meaning": ""
+    },
+    {
+        "word": "かんしょうかい",
+        "meaning": "感傷会"
+    },
+    {
+        "word": "",
         "meaning": ""
     }
 ]
